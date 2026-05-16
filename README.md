@@ -1,7 +1,7 @@
 *This project has been created as part of the 42 curriculum by lalkhati, malsabah.*
 
 <div align="center">
-<img src="assets/HollowShell.png" alt="Hollow Shell Banner" width="850">
+<img src="HollowShell.png" alt="Hollow Shell Banner" width="850">
 </div>
 
 # Description
