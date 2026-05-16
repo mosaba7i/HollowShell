@@ -1,5 +1,9 @@
 *This project has been created as part of the 42 curriculum by lalkhati, malsabah.*
 
+<div align="center">
+<img src="assets/HollowShell.png" alt="Hollow Shell Banner" width="850">
+</div>
+
 # Description
 ### **Minishell** is a miniature version of bash, meant to immitate the original as closely as possible. The following features are included:-
 1. Pipes
